@@ -1,5 +1,7 @@
+![MasterHead](https://img.freepik.com/free-vector/frontend-developer-typographic-header-website-interface-design-improvement-web-page-programming-coding-testing-it-profession-isolated-flat-vector-illustration_613284-304.jpg?w=2000)
 <h1 align="center">Hi 👋, I'm Raj Makadiya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+img align="right" alt="Coding" width="400" src="https://sircltech.com/assets/images/newgif/python.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-1505&label=Profile%20views&color=0e75b6&style=flat" alt="raj-1505" /> </p>
 
